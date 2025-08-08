@@ -15,4 +15,4 @@ How to use:
 
 1.Open the file "Final report – explanation with all details.pdf". It explains all the steps taken to achieve my goal.
 
-2.All the Rprogram code is provided in file "video_game_data-coding.R".
+2.All the Rprogram code is provided in file "video_game_data-coding.R" in one page.
