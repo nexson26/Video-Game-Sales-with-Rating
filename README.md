@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings
 
 (Credit to original uploader and Kaggle community)
 
-
+Tools: R-program
 
 The dataset contains information on 11,563 video games, including details such as genre, Japan sales, US sales, and more. However, the data has significant missing values and unnecessary information. My task was to clean the data, remove irrelevant columns, and demonstrate that Role-Playing games have higher mean global sales than Action games.
 
