@@ -21,6 +21,6 @@ How to use:
 
 使用方法：
 
-打开文件 "Final report – explanation with all details.pdf"，它解释了为实现我的目标所采取的所有步骤。
+1. 打开文件 "Final report – explanation with all details.pdf"，它解释了为实现我的目标所采取的所有步骤。
 
-所有 R 程序代码已提供在文件 "video_game_data-coding.R" 中。
+2. 所有 R 程序代码已提供在文件 "video_game_data-coding.R" 中。
