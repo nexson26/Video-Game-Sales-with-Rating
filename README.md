@@ -24,3 +24,12 @@ How to use:
 1. 打开文件 "Final report – explanation with all details.pdf"，它解释了为实现我的目标所采取的所有步骤。
 
 2. 所有 R 程序代码已提供在文件 "video_game_data-coding.R" 中。
+
+
+Below is a brief outline of the steps I took to solve the problem:
+1. Read the data and check the structure.                         
+2. Summarize the data, identify missing values, and remove columns with “N/A” values.
+3. Perform ANOVA and find out d.f., P and F values.	     
+4. Conduct pairwise comparisons using Tukey’s HSD test.	     
+5. Give conclusions based on the analysis.
+
